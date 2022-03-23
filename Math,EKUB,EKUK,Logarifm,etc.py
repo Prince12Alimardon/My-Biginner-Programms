@@ -9,7 +9,7 @@ print("Sonning sinus ini hisoblash uchun '7' ni bosing")
 print("Sonning tanginusini  ini hisoblash uchun '8' ni bosing")
 print("To'g'ri to'rtburchakni perimetri va yuzini hisoblash uchun '9' ni bosing")
 print("Kvadratning perimetri va yuzini hisoblash uchun '10' ni bosing")
-print("Ushbu dasturni @Alimardon_Boqijonov yaratgan")
+# print("Ushbu dasturni @Alimardon_Boqijonov yaratgan")
 a = int(input("O'zingizga kerakli bo'lgan sonni kiriting 1,2,3,4,5,6,7,8,9 va 10 sonlaridan birini sonlaridan birini:"))
 
 if a==1:
